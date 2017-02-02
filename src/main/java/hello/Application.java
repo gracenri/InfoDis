@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
-	//Grace add different commnents
+	//Grace added some comments 1 final version 
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
